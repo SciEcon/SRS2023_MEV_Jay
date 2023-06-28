@@ -46,10 +46,7 @@ Figure 2. Transactions over time
 
 
 Jiayi Wang is a junior student at Duke Kunshan University majoring in Applied Math & Computational Science tracking in Math. He has a solid foundation in Data Science and excels in Math. He has done research in trading strategies and portfolio construction in the Chinese Commodity Market. He is working under the guidance of Prof. Luyao Zhang on machine learning for Blockchain Security and Privacy.
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+
 
 ## References
 - Piet, Julien, Jaiden Fairoze, and Nicholas Weaver. 2022. “Extracting Godl [Sic] from the Salt Mines: Ethereum Miners Extracting Value.” ArXiv:2203.15930 [Cs], March. https://arxiv.org/abs/2203.15930.
