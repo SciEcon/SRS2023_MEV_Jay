@@ -1,10 +1,9 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Export Ethereum Transaction Data
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Jiayi Wang, Applied Mathematics, Class of 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Disclaimer**: Submissions to the SRS2023 Innovate instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**: I am deeply indebted to my professor Luyao Zhang for her invaluable patience and feedback. I could not started my journey without her instructions and help. Additionally, this endeavour would not have been possible without Flashbots. Lastly, I would be remiss in not mentioning my family, especially my parents.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
@@ -48,7 +47,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## More about the Author
 - headshot
-- self-introduction
+- Jiayi Wang is a junior student at Duke Kunshan University majoring in Applied Math & Computational Science tracking in Math. He has a solid foundation in Data Science and excels in Math. He has done research in trading strategies and portfolio construction in the Chinese Commodity Market. He is working under the guidance of Prof. Luyao Zhang on machine learning for Blockchain Security and Privacy.
 - Final reflections 
   - intellectual growth
   - professional growth
@@ -59,7 +58,7 @@ Note: please insert the screenshot of the answers to your research question by C
 ### Data Source
 - Data Source Title and URL
 ### Code Source
-- Code Source Title and URL
+[web3.py](https://github.com/ethereum/web3.py)
 ### Articles
 - Article Source Title and URL
 ### Literature
