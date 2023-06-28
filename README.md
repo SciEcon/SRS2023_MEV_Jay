@@ -26,22 +26,26 @@ Miner Extractable Value (MEV) has garnered significant attention from researcher
 
 
 ## Code
-- [export data](https://github.com/SciEcon/SRS2023_MEV_Jay/blob/main/code/SRS_Innovate.ipynb)
+- [export code](https://github.com/SciEcon/SRS2023_MEV_Jay/blob/main/code/SRS_Innovate.ipynb)
 
 ## Data
+- [transaction data](https://github.com/SciEcon/SRS2023_MEV_Jay/blob/main/data/transaction_export.csv)
 
 ## Spotlight
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+<img src="./spotlight/截屏2023-06-29%2000.19.15.png">
+Figure 1. Transaction Data Preview
+
+<img src="./spotlight/截屏2023-06-29%2003.29.40.png">
+Figure 2. Transactions over time
 
 ## More about the Author
 - headshot
-<img width="460" height="440" src="./spotlight/Wang%20Jiayi_Photo.png">)
-- Jiayi Wang is a junior student at Duke Kunshan University majoring in Applied Math & Computational Science tracking in Math. He has a solid foundation in Data Science and excels in Math. He has done research in trading strategies and portfolio construction in the Chinese Commodity Market. He is working under the guidance of Prof. Luyao Zhang on machine learning for Blockchain Security and Privacy.
+ 
+<img width="340" height="440" src="./spotlight/Wang%20Jiayi_Photo.png">
+
+
+
+Jiayi Wang is a junior student at Duke Kunshan University majoring in Applied Math & Computational Science tracking in Math. He has a solid foundation in Data Science and excels in Math. He has done research in trading strategies and portfolio construction in the Chinese Commodity Market. He is working under the guidance of Prof. Luyao Zhang on machine learning for Blockchain Security and Privacy.
 - Final reflections 
   - intellectual growth
   - professional growth
