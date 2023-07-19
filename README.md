@@ -17,6 +17,7 @@ Miner Extractable Value (MEV) has garnered significant attention from researcher
 | ------------- | ------------- |
 | Code  | https://github.com/SciEcon/SRS2023_MEV_Jay#Code  |
 | Data  | https://github.com/SciEcon/SRS2023_MEV_Jay#Data  |
+|Ethereum ETL  |  https://github.com/ethereum/web3.py](https://github.com/blockchain-etl/ethereum-etl  |
 | Spotlight  | https://github.com/SciEcon/SRS2023_MEV_Jay#Spotlight  |
 | more about the author  | https://github.com/SciEcon/SRS2023_MEV_Jay#more-about-the-author |
 | references  | https://github.com/SciEcon/SRS2023_MEV_Jay#references  |
@@ -35,8 +36,13 @@ Miner Extractable Value (MEV) has garnered significant attention from researcher
 <img src="./spotlight/截屏2023-06-29%2000.19.15.png">
 Figure 1. Transaction Data Preview
 
-<img src="./spotlight/截屏2023-06-29%2003.29.40.png">
-Figure 2. Transactions over time
+<img src="./spotlight/截屏2023-07-15 14.30.53.png">
+Figure 1. Trace Data Preview
+
+<img src="./spotlight/截屏2023-07-16 19.23.22.png">
+Figure 3. Traces over time
+
+In Figure 3, generally, the count of traces is increasing. The rapid drop at the end is due to only half of the transactions in July 2023 are counted.
 
 ## More about the Author
 - headshot
@@ -57,6 +63,9 @@ Jiayi Wang is a junior student at Duke Kunshan University majoring in Applied Ma
 
 ### Code Source
 [web3.py](https://github.com/ethereum/web3.py)
+
+### Data Source
+[Ethereum ETL]([https://github.com/ethereum/web3.py](https://github.com/blockchain-etl/ethereum-etl))
 
 ### Literature
 - Piet, Julien, Jaiden Fairoze, and Nicholas Weaver. 2022. “Extracting Godl [Sic] from the Salt Mines: Ethereum Miners Extracting Value.” ArXiv:2203.15930 [Cs], March. https://arxiv.org/abs/2203.15930.
