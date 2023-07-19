@@ -17,7 +17,7 @@ Miner Extractable Value (MEV) has garnered significant attention from researcher
 | ------------- | ------------- |
 | Code  | https://github.com/SciEcon/SRS2023_MEV_Jay#Code  |
 | Data  | https://github.com/SciEcon/SRS2023_MEV_Jay#Data  |
-|Ethereum ETL  |  https://github.com/ethereum/web3.py](https://github.com/blockchain-etl/ethereum-etl  |
+| Data Source  |  [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl)  |
 | Spotlight  | https://github.com/SciEcon/SRS2023_MEV_Jay#Spotlight  |
 | more about the author  | https://github.com/SciEcon/SRS2023_MEV_Jay#more-about-the-author |
 | references  | https://github.com/SciEcon/SRS2023_MEV_Jay#references  |
