@@ -1,0 +1,12 @@
+Variable name,Explanation
+Block,The block number in which the transaction was included
+Timestamp,The time the transaction happens
+Transaction Hash,The hash of the transaction that generated this trace
+From,The Ethereum address of the sender (originating address) of the transaction.
+To,The Ethereum address of the recipient (destination address) of the transaction. It can be None if the transaction is creating a new contract
+Nounce,Number of the transactions made by the sender prior to this one
+Value,The value transferred in Wei
+Gas,Gas provided by the sender
+Gas Price,The gas price provided by the sender in Wei
+Receipt cumulative,The total amount of gas used when this transaction was executed in the block
+
